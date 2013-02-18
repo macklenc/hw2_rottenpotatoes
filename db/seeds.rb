@@ -19,7 +19,6 @@ movies = [{:title => 'Aladdin', :rating => 'G', :release_date => '25-Nov-1992'},
   {:title => 'Australia', :rating => 'PG-13', :release_date => '28-Nov-2008'},
           {:title => 'How to Train Your Dragon', :rating => 'PG', :release_date => '26-Mar-2010'},
           {:title => "Ferris Bueller's Day Off", :rating => 'PG-13', :release_date => '11-Jun-1986'},
-          {:title => "Lagaan: Once Upoon a Time in India", :rating => 'NA', :release_date => '8-May-2002'}
      ]
 
 movies.each do |movie|
